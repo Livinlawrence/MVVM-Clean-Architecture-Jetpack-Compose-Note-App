@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM Clean Architecture Jetpack Compose Note App</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="color">Color</string>
+    <string name="title_activity_launch">LaunchActivity</string>
+</resources>
